@@ -85,4 +85,3 @@ class LinkedList:
 
     def __len__(self):
         return  self.node_conut
-
